@@ -12,10 +12,10 @@ This is a simple TCP chat server written in Go. It allows multiple clients to co
 - macOS, Linux, or Windows
 
 ## Project Structure
-# Server-side implementation 
+Server-side implementation 
 chat-server/ 
 ├── main.go 
-# Simple client implementation
+Simple client implementation
   client/
   └── client.go 
 
